@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 .DS_Store
 .sass-cache
+=======
+
+.DS_Store
+.sass-cache
+*.scssc
+>>>>>>> 3d308a2aa33a6a6f27730578fbaab7d8de5a0884
